@@ -4,7 +4,7 @@
 - Run `python heotel_scrapper/main.py` to run the scraper
 
 ### Install as a package
-- `pip install -e .```
+- `pip install -e .`
 - `webscraper`
 ### Output Data
 
