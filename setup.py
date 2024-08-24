@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'webscraper = hotel_scraper.main:main',
+            'webscraper = main:main',
         ],
     },
 )
