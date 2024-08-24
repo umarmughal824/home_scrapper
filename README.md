@@ -6,6 +6,6 @@
 ### Install as a package
 - `pip install -e .`
 - `webscraper`
-### Output Data
 
+### Output Data
 The output data produced is in the `data` directory
