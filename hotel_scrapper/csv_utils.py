@@ -1,7 +1,7 @@
 import csv
 import os
 
-csv_file_path = os.path.join(os.getcwd(), '../data/scraped_data.csv')
+csv_file_path = os.path.join(os.getcwd(), 'data/scraped_data.csv')
 
 
 def initialize_csv():
