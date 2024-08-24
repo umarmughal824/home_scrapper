@@ -1,5 +1,7 @@
 ### How to Run the scraper
-Run `python main.py` to run the scraper
+- Install the selenium from the `requirement.txt` file
+- `pip install -r requirements.txt` 
+- Run `python main.py` to run the scraper
 
 ### Output Data
 
